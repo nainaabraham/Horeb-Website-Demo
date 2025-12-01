@@ -1,1 +1,1 @@
-# Horeb-Mar-Thoma-Church-Website-Demo-
+# Horeb-Website-Demo
